@@ -29,6 +29,12 @@ I'm a beginner programmer with a strong interest in web development and bots. I 
 - [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/) **[JSON 80%]** - JSON is very useful for storing and exchanging data.
 - [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) **[PHP 30%]** - I'm learning PHP for backend development.
 
+
+
+![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koderudi&layout=compact)
+
+
+
 ##  🤝 Connect with Me
 
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arp_officiall) - Feel free to reach out if you have any questions or want to collaborate!
